@@ -1,0 +1,21 @@
+{
+  "name": "khanza-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
+    "dotenv": "^8.1.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.0.6",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "serverless-mysql": "^1.5.1",
+    "sql-template-strings": "^2.2.2"
+  }
+}
